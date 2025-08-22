@@ -58,3 +58,8 @@ username](https://happygitwithr.com/github-acct.html#username-advice)!
 
 Finally, download and install Git on your local machine:
 <https://git-scm.com/downloads>
+
+## Step 5. Brief survey
+
+Please complete this brief survey so I can get a sense for your
+experience level: <https://forms.gle/EaJewWijdV29kjcB8>
