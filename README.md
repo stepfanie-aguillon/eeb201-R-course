@@ -18,10 +18,10 @@ We will emphasize hands-on skill development primarily using `tidyverse` R packa
 ## Tentative Schedule
 
 ### Before Class - Install Software
-Pre-class assignment: [install necessary programs!](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/install-guide.md)
+Pre-course assignment: [install necessary programs!](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/install-guide.md)
 
 ### Week 1 - Introduction to RStudio and GitHub
-Pre-class reading: <br>
+Pre-class reading: [Why learn R?](https://datacarpentry.github.io/R-ecology-lesson/introduction-r-rstudio.html#why-learn-r); [Why Git? Why GitHub? 1.1-1.5](https://happygitwithr.com/big-picture); if you're totally new to R, practice with [exercise 2.1](https://stat545.com/r-basics.html) <br>
 Slides: <br> 
 Problem set: <br>
 
