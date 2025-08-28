@@ -6,7 +6,8 @@ downloaded and installed **before** our first lecture. This will likely
 only take ~30 minutes to complete, but please do this process in advance
 in case you run into issues!
 
-![Artwork by Allison Horst](./images/plan-on-it.jpg)
+<img src="./images/plan-on-it.jpg" style="width:75.0%"
+alt="Artwork by Allison Horst" />
 
 ## Step 1. R and RStudio
 
