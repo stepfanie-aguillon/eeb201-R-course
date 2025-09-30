@@ -10,7 +10,8 @@ time process, so you won’t need to do this again!
 We will be working through this together in class, but it’s possible
 (*perhaps likely*) that we won’t get all the way through. If you’re
 encountering difficulties, I have included some links on
-[Troubleshooting](@sec-troubleshooting) at the end.
+[Troubleshooting](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week1_PS.md#troubleshooting)
+at the end.
 
 **For this assignment, your goal is to work through this entire process
 and complete your first two “commits” on GitHub.**
@@ -253,7 +254,8 @@ screenshot.)
 This will give you a pop-up message that should indicate that the commit
 has “worked”! (And not have any errors… If you are encountering errors
 at this stage, then there may be an issue with your GitHub/Git/RStudio
-connection that will require [Troubleshooting](@sec-troubleshooting)!)
+connection that will require
+[Troubleshooting](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week1_PS.md#troubleshooting)!)
 
 ![RStudio screenshot](./PS-images/week1/commit3.png)
 
