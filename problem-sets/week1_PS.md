@@ -249,7 +249,8 @@ This will open the commit dialogue window where we will need to write a
 files included in your commit will be different from those shown in the
 screenshot.)
 
-![RStudio screenshot](./PS-images/week1/commit2.png)
+<img src="./PS-images/week1/commit2.png" style="width:75.0%"
+alt="RStudio screenshot" />
 
 This will give you a pop-up message that should indicate that the commit
 has “worked”! (And not have any errors… If you are encountering errors
@@ -257,7 +258,8 @@ at this stage, then there may be an issue with your GitHub/Git/RStudio
 connection that will require
 [Troubleshooting](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week1_PS.md#troubleshooting)!)
 
-![RStudio screenshot](./PS-images/week1/commit3.png)
+<img src="./PS-images/week1/commit3.png" style="width:75.0%"
+alt="RStudio screenshot" />
 
 **Note that committing is different from saving a file! So don’t forget
 to save your files along the way too!**
