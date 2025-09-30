@@ -36,7 +36,7 @@ install.packages("tidyverse")
 ```
 
 ``` r
-install.packages("cowplot)
+install.packages("cowplot")
 ```
 
 ## Step 3. Slack
