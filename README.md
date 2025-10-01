@@ -26,7 +26,7 @@ Slides: [Week 1 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/bl
 Problem set: [Week 1 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week1_PS.md) <br>
 
 ### Week 2 - Making figures with `ggplot2`
-Pre-class reading: <br>
+Pre-class reading: [Quarto 28.1-28.2](https://r4ds.hadley.nz/quarto.html#quarto-basics); [Introduction to `ggplot2`](https://ggplot2.tidyverse.org/articles/ggplot2.html) <br>
 Slides: <br> 
 Problem set: <br>
 
