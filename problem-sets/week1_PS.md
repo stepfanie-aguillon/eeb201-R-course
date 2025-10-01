@@ -43,8 +43,8 @@ Rather than working directly in a repository (“repo”) in your own
 personal account, we will be using the functionality built into GitHub
 Classroom to create a repo that Stepfanie has shared access to. You will
 use this shared repo to submit your problem sets throughout the quarter.
-**To begin your shared repo, click [this
-link](https://classroom.github.com/a/Owatds-K).**
+
+### To begin your shared repo, click [this link](https://classroom.github.com/a/Owatds-K).
 
 Once you’ve created your course repo, you should notice that it’s hosted
 within the course’s organization rather than your personal GitHub
