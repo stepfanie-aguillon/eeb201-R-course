@@ -22,7 +22,7 @@ Pre-course assignment: [install necessary programs!](https://github.com/stepfani
 
 ### Week 1 - Introduction to RStudio and GitHub
 Pre-class reading: [Why learn R?](https://datacarpentry.github.io/R-ecology-lesson/introduction-r-rstudio.html#why-learn-r); [Why Git? Why GitHub? 1.1-1.5](https://happygitwithr.com/big-picture); if you're totally new to R, practice with [exercise 2.1](https://stat545.com/r-basics.html) <br>
-Slides: <br> 
+Slides: [Week 1 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week1-slides.pdf) <br> 
 Problem set: [Week 1 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week1_PS.md) <br>
 
 ### Week 2 - Making figures with `ggplot2`
