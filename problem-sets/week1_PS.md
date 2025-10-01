@@ -112,7 +112,7 @@ Now, store this personal access token. Use the following code and paste
 in your personal access token as the response.
 
 ``` r
-gitcred::gitcreds_set()
+gitcreds::gitcreds_set()
 ```
 
 You should get a result that looks like this:
