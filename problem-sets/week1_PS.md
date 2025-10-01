@@ -84,7 +84,7 @@ to connect Git and GitHub. You will need to enter the username and email
 address associated with *your* GitHub account.
 
 ``` r
-use_git_config(user.name = "Josie Bruin", user.email = "josie.bruin@ucla.edu")
+usethis::use_git_config(user.name = "Josie Bruin", user.email = "josie.bruin@ucla.edu")
 ```
 
 Finally, to allow you to have full functionality using GitHub you will
@@ -94,7 +94,7 @@ alone is not enough. We will use the `create_github_token()` command
 within the `usethis` package.
 
 ``` r
-create_github_token()
+usethis::create_github_token()
 ```
 
 This will open a GitHub window in your browser and you will be required
