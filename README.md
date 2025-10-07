@@ -33,7 +33,7 @@ Problem set: <br>
 ### Week 3 - Data types and structures
 Pre-class reading: <br>
 Slides: <br> 
-Problem set: <br>
+Problem set: [Week 2 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week2_PS.md) <br>
 
 ### Week 4 - Data wrangling with `dplyr` part 1
 Pre-class reading: <br>
