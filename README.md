@@ -27,7 +27,7 @@ Problem set: [Week 1 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 
 ### Week 2 - Making figures with `ggplot2`
 Pre-class reading: [Quarto 28.1-28.2](https://r4ds.hadley.nz/quarto.html#quarto-basics); [Introduction to `ggplot2`](https://ggplot2.tidyverse.org/articles/ggplot2.html) <br>
-Slides: <br> 
+Slides: [Week 2 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week2-slides.pdf) <br> 
 Problem set: [Week 2 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week2_PS.md) <br>
 
 ### Week 3 - Data types and structures
