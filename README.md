@@ -31,7 +31,7 @@ Slides: [Week 2 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/bl
 Problem set: [Week 2 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week2_PS.md) <br>
 
 ### Week 3 - Data types and structures
-Pre-class reading: <br>
+Pre-class reading: An Introduction to R [Section 3.1](https://intro2r.com/data-types.html) and [Section 3.2](https://intro2r.com/data-structures.html) <br>
 Slides: <br> 
 Problem set: <br>
 
