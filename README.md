@@ -32,11 +32,11 @@ Problem set: [Week 2 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 
 ### Week 3 - Data types and structures
 Pre-class reading: An Introduction to R [Section 3.1](https://intro2r.com/data-types.html) and [Section 3.2](https://intro2r.com/data-structures.html) <br>
-Slides: <br> 
+Slides: [Week 3 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week3-slides.pdf) <br> 
 Problem set: [Week 3 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week3_PS.md) <br>
 
 ### Week 4 - Data wrangling with `dplyr` part 1
-Pre-class reading: <br>
+Pre-class reading: [Introduction to `dplyr`](https://dplyr.tidyverse.org/articles/dplyr.html) (through "The pipe"); first 6.5 mins of this [YouTube video](https://www.youtube.com/watch?v=4MfUCX_KpdE) of Jenny Bryan<br>
 Slides: <br> 
 Problem set: <br>
 
