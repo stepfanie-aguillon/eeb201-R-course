@@ -38,7 +38,7 @@ Problem set: [Week 3 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 ### Week 4 - Data wrangling with `dplyr` part 1
 Pre-class reading: [Introduction to `dplyr`](https://dplyr.tidyverse.org/articles/dplyr.html) (through "The pipe"); first 6.5 mins of this [YouTube video](https://www.youtube.com/watch?v=4MfUCX_KpdE) of Jenny Bryan<br>
 Slides: <br> 
-Problem set: <br>
+Problem set: [Week 4 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week4_PS.md) <br>
 
 ### Week 5 - Data wrangling with `dplyr` part 2
 Pre-class reading: <br>
