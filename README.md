@@ -41,7 +41,7 @@ Slides: <br>
 Problem set: [Week 4 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week4_PS.md) <br>
 
 ### Week 5 - Data wrangling with `dplyr` part 2
-Pre-class reading: <br>
+Pre-class reading: nothing new this week! <br>
 Slides: <br> 
 Problem set: <br>
 
