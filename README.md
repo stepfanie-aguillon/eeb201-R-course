@@ -42,11 +42,11 @@ Problem set: [Week 4 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 
 ### Week 5 - Data wrangling with `dplyr` part 2
 Pre-class reading: nothing new this week! <br>
-Slides: <br> 
+Slides: [Week 5 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week5-slides.pdf) <br> 
 Problem set: [Week 5 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week5_PS.md) <br>
 
 ### Week 6 - Solving problems and getting help
-Pre-class reading: <br>
+Pre-class reading: [Troubleshooting Error Messages](https://bookdown.org/yih_huynh/Guide-to-R-Book/trouble.html) <br>
 Slides: <br> 
 Problem set: <br>
 
