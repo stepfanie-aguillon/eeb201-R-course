@@ -48,7 +48,7 @@ Problem set: [Week 5 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 ### Week 6 - Solving problems and getting help
 Pre-class reading: [Troubleshooting Error Messages](https://bookdown.org/yih_huynh/Guide-to-R-Book/trouble.html) <br>
 Slides: <br> 
-Problem set: <br>
+Problem set: [Week 6 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week6_PS.qmd) <br>
 
 ### Week 7 - Tidy data and data joins
 Pre-class reading: <br>
