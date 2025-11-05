@@ -1,0 +1,101 @@
+---
+title: "Week 6 Problem Set"
+format: gfm
+---
+
+## Assignment Introduction
+
+This week we've been discussing how to troubleshoot errors in code. Your goal is to take this .qmd file that is riddled with errors and make it run! 
+
+*If you'd like a hint on how many errors are present in an exercise, message me on Slack :)*
+
+Commit your final `week6_PS.qmd`, `week6_PS.md`, and associated figure folder to the `problem_sets` folder in your GitHub repository.
+
+**Deadline**: 11/12/25 10pm
+
+## Troubleshooting R Code
+
+Load all necessary packages.
+
+```{r}
+library(tidy verse)
+```
+
+### Exercise 1
+
+This exercise brings us back to the subset of the `ratdat` dataset called `rodents_at_control_plots.tsv`. 
+
+#### 1.1 Load the dataset into R as `rodents_only`. 
+
+```{r}
+rodents_only <- read_csv("rodents-at-control-plots.tsv")
+```
+
+#### 1.2 Explore the relationship between `species_id` and `weight`. Summarize the minimum, maximum, and average weight for each of the rodent species.
+
+```{r}
+summary_df <- rodents_only %>%
+  group_by(species_id) %>%
+  summarize(min_weight == min(weight), 
+            max_weight == max(weight),
+            avg_weight == avg(weight))
+
+kable(head(summary_df))
+```
+
+#### 1.3 Explore the relationship between `species_id` and `weight` in a figure.
+
+```{r}
+ggplot(data = rodents) %>% 
+  geom_boxplot(mapping = aes(x = species_id, y = weight, fill = species_id)) %>%
+  labs(x = Species, y = Weight, fill = Species) %>%
+  theme_bw()
+```
+
+
+#### 1.4 Explore the relationship between `genus` and `weight`. Summarize the sample size, mean, median, and standard deviation for each of the genera of rodents.
+
+```{r}
+summary_df2 <- rodents_only %>%
+  group_by(genera) %>%
+  summarize(sample_size = N(),
+            median_weight = median(weight)), 
+            mean_weight = mean(weight), 
+            stdev_weight = stdev(weight))
+
+kable(head(summary_df2))
+```
+
+#### 1.5 Explore the relationship between `genus` and `weight` in a figure.
+
+```{r}
+ggplot(data = rodent_only mapping = aes(x = weight, y = genus, fill = genus)) + 
+  geom_jitter(color = "light gray", alpha = 0.5) +
+  geom_boxplot()
+  labs("Weight of Rodent Genera") +
+  theme_bw() +
+  theme(axis.title = element_text(size = 15), plot.title = element_text(size = 20, face = bold))
+```
+
+#### 1.6 Explore the relationship between `sex` and a new variable calculated by dividing `hindfoot_length` by `weight` within the genus *Dipodomys*. Summarize the sample size, minimum value, and maximum value.
+
+```{r}
+summary_df3 <- rodents_only %>%
+  filter(genus = "Dipodomys") %>%
+  mutate(hindfoot_by_weight = hindfoot_length//weight) %>%
+  group_by(species, sex) %>%
+  summarize(sample_size = n), %>%
+  min_value = min(hindfoot_by_weight), %>%
+  max_value = max(hindfoot_by_weight))
+
+kable(head(summary_df3)
+```
+
+#### 1.7 Explore the relationship between `species`, `sex`, and `hindfoot_by_weight` within the genus *Dipodomys* in a figure.
+
+```{r}
+ggplot(data = dipodomys_only) + 
+  geom_violin(mapping = aes(x = hindfoot_by_weight, y = species, fill = sex)) +
+  theme_classic()
+```
+
