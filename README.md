@@ -53,7 +53,7 @@ Problem set: [Week 6 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 ### Week 7 - Tidy data and data joins
 Pre-class reading: [Tidy data for efficiency, reproducibility, and collaboration](https://openscapes.org/blog/2020-10-12-tidy-data/); R for Data Science [Section 19.1 and 19.2](https://r4ds.hadley.nz/joins) <br>
 Slides: <br> 
-Problem set: <br>
+Problem set: [Week 7 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week7_PS.md) <br>
 
 ### Week 8 - Strings, factors, and dates
 Pre-class reading: <br>
