@@ -61,7 +61,7 @@ Slides: <br>
 Problem set: [Week 8 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week8_PS.md) <br>
 
 ### Week 9 - Design principles for making figures
-pre-class reading: [Wong 2010](https://www.nature.com/articles/nmeth0910-665.pdf) <br>
+pre-class reading: [Wong 2010](https://www.nature.com/articles/nmeth0910-665.pdf); [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends) <br>
 Slides: <br> 
 Problem set: <br>
 
