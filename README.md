@@ -57,7 +57,7 @@ Problem set: [Week 7 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/b
 
 ### Week 8 - Strings, factors, and dates
 pre-class reading (skim each): [Introduction to `stringr`](https://stringr.tidyverse.org/articles/stringr.html); [Introduction to `forcats`](https://forcats.tidyverse.org/articles/forcats.html); [Do more with dates and times in R](https://lubridate.tidyverse.org/articles/lubridate.html) <br>
-Slides: <br> 
+Slides: [Week 8 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/slides/week8-slides.pdf) <br> 
 Problem set: [Week 8 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week8_PS.md) <br>
 
 ### Week 9 - Design principles for making figures
