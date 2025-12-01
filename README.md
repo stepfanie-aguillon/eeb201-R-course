@@ -66,6 +66,6 @@ Slides: [Week 9 Slides](https://github.com/stepfanie-aguillon/eeb201-R-course/bl
 Problem set: [Week 9 PS](https://github.com/stepfanie-aguillon/eeb201-R-course/blob/main/problem-sets/week9_PS.md) <br>
 
 ### Week 10 - Iterations, conditionals, and functions
-Pre-class reading: <br>
+Pre-class reading: R for Data Science [Chapter 27, especially 27.1-27.3 and 27.5](https://r4ds.hadley.nz/base-R.html); R for Data Science [Chapter 25, especially 25.1-25.2 and 25.4](https://r4ds.hadley.nz/functions.html) <br>
 Slides: <br> 
 Problem set: <br>
